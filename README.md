@@ -40,7 +40,7 @@ A granularidade é essencial para garantir previsões mais precisas e inclusivas
 - `API/`: Uso da API para acesso aos dados de vazão
 - `automation`: Processos automatizados para adaptação e preparação dos dados para integração no Caravan Project.
 - `docs/`: Documentação técnica do projeto. (EM CONSTRUÇÃO)  
-- `community/`: Recursos para engajamento da comunidade e diretrizes de contribuição.
+- `environments`: Configurações e ambiente dedicado ao processamento do projeto
 
 ### Principais arquivos:
 - `README.md`: Este arquivo! 🎉  
