@@ -2,6 +2,8 @@
 
 ### **Transformando a gestão hidrológica do Brasil com IA, ciência e colaboração aberta.**
 
+![Logo do projeto](images/logo_colorida.png)
+
 ---
 
 ## 📖 O que é o FloodIQ?
