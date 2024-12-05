@@ -16,7 +16,7 @@ O FloodIQ é projetado para **preencher lacunas no monitoramento hidrológico br
 
 ### Por que aumentar a granularidade?
 
-A granularidade é essencial para garantir previsões mais precisas e inclusivas. No Brasil, muitas áreas vulneráveis a inundações estão dentro de bacias menores, que os sistemas globais, como o FloodHub, não conseguem mapear adequadamente. Ao aumentar de ***1.344 para 4.319 bacias (aumento de 221%)**, o FloodIQ:
+A granularidade é essencial para garantir previsões mais precisas e inclusivas. No Brasil, muitas áreas vulneráveis a inundações estão dentro de bacias menores, que os sistemas globais, como o FloodHub, não conseguem mapear adequadamente. Ao aumentar de **1.344 para 4.319 bacias (aumento de 221%)**, o FloodIQ:
 
 1. Amplia a cobertura de alertas: Incluindo bacias menores e sub-bacias negligenciadas.
 2. Melhora a precisão: Reduzindo áreas "invisíveis" no sistema global.
@@ -41,7 +41,6 @@ A granularidade é essencial para garantir previsões mais precisas e inclusivas
 - `Automatization`: Processos de automatização e adaptação dos dados para uso no Caravan Project
 - `docs/`: Documentação técnica do projeto. (EM CONSTRUÇÃO)  
 - `community/`: Recursos para engajamento da comunidade e diretrizes de contribuição.
-- 
 
 ### Principais arquivos:
 - `README.md`: Este arquivo! 🎉  
