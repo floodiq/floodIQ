@@ -31,16 +31,16 @@ A granularidade é essencial para garantir previsões mais precisas e inclusivas
   Diretório principal contendo bases de dados e scripts relacionados ao projeto.  
 
   - `examples/`: Scripts para carregar e utilizar a base de dados das bacias hidrográficas. 
-  - `watersheds_database/`: Base de dados de bacias hidrográficas organizada em três formatos: individual, por cluster e unificada (formatos: `.shp`, `.shx`, `.dbf`, etc.).  
-  - `gaussian_database/`: Base de dados das estações de medições fluviométricas e pluviométricas (formato: `.gpkg`).  
-  - `streamflow/`: Base de dados com séries temporais de vazão fluviométrica por estação.  
+  - `watersheds/`: Base de dados de bacias hidrográficas organizada em três formatos: individual, por cluster e unificada (formatos: `.shp`, `.shx`, `.dbf`, etc.).  
+  - `gauging_station/`: Base de dados das estações de medições fluviométricas e pluviométricas (formato: `.gpkg`).  
+  - `streamflow_data/`: Base de dados com séries temporais de vazão fluviométrica por estação.  
 
 - `models/`: Implementações dos algoritmos de IA: 1) correlação de bacias e estações de medição com NSGAII e 2) clusterização de bacias com Balenced K-Means;  
 - `scripts/`: Ferramentas de processamento para derivação de atributos (códigos do Caravan Project part 1 e 2)
 - `API/`: Uso da API para acesso aos dados de vazão
-- `Automatization`: Processos de automatização e adaptação dos dados para uso no Caravan Project
+- `automation`: Processos automatizados para adaptação e preparação dos dados para integração no Caravan Project.
 - `docs/`: Documentação técnica do projeto. (EM CONSTRUÇÃO)  
-- `community/`: Recursos para engajamento da comunidade e diretrizes de contribuição.
+- `environments`: Configurações e ambiente dedicado ao processamento do projeto
 
 ### Principais arquivos:
 - `README.md`: Este arquivo! 🎉  
@@ -96,9 +96,11 @@ E-mail: projetofloodiq@gmail.com ou wendsoncarlos09@gmail.com
 
 ---
 
-### 📝 Licença
+## License
 
-Este projeto é licenciado sob a MIT License.
+This project uses code from the [Frederik Kratzert's repository](https://github.com/kratzert/Caravan) licensed under the **BSD 3-Clause License**.
+
+This project itself is licensed under the **GNU General Public License v3.0 (GPL-3.0)**.
 
 ---
 
