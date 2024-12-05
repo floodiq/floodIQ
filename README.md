@@ -16,6 +16,8 @@ O **FloodIQ** é uma iniciativa open-source focada em democratizar o acesso a da
 
 O FloodIQ é projetado para **preencher lacunas no monitoramento hidrológico brasileiro**, aumentando a granularidade das bacias hidrográficas e conectando esses dados ao FloodHub da Google. Nosso foco é fortalecer a base de dados que será integrada ao projeto Caravan Project que já faz a conexão com o FloodHub para alertas de inundalão. Aqui está um fluxo resumido do funcionamento do projeto:
 
+![Fluxo do projeto](images/fluxo.png)
+
 ### Por que aumentar a granularidade?
 
 A granularidade é essencial para garantir previsões mais precisas e inclusivas. No Brasil, muitas áreas vulneráveis a inundações estão dentro de bacias menores, que os sistemas globais, como o FloodHub, não conseguem mapear adequadamente. Ao aumentar de **1.344 para 4.319 bacias (aumento de 221%)**, o FloodIQ:
