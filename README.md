@@ -96,9 +96,11 @@ E-mail: projetofloodiq@gmail.com ou wendsoncarlos09@gmail.com
 
 ---
 
-### 📝 Licença
+## License
 
-Este projeto é licenciado sob a MIT License.
+This project uses code from the [Frederik Kratzert's repository](https://github.com/kratzert/Caravan) licensed under the **BSD 3-Clause License**.
+
+This project itself is licensed under the **GNU General Public License v3.0 (GPL-3.0)**.
 
 ---
 
