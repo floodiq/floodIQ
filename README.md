@@ -38,7 +38,7 @@ A granularidade é essencial para garantir previsões mais precisas e inclusivas
 - `models/`: Implementações dos algoritmos de IA: 1) correlação de bacias e estações de medição com NSGAII e 2) clusterização de bacias com Balenced K-Means;  
 - `scripts/`: Ferramentas de processamento para derivação de atributos (códigos do Caravan Project part 1 e 2)
 - `API/`: Uso da API para acesso aos dados de vazão
-- `Automatization`: Processos de automatização e adaptação dos dados para uso no Caravan Project
+- `automation`: Processos automatizados para adaptação e preparação dos dados para integração no Caravan Project.
 - `docs/`: Documentação técnica do projeto. (EM CONSTRUÇÃO)  
 - `community/`: Recursos para engajamento da comunidade e diretrizes de contribuição.
 
