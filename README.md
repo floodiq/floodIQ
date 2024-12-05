@@ -22,6 +22,8 @@ A granularidade é essencial para garantir previsões mais precisas e inclusivas
 2. Melhora a precisão: Reduzindo áreas "invisíveis" no sistema global.
 3. Protege mais pessoas: Cobertura detalhada significa impacto direto na prevenção de desastres para milhões de brasileiros.
 
+---
+
 ## 📂 Estrutura do Repositório
 
 ### Diretórios principais:
