@@ -34,15 +34,13 @@ A granularidade é essencial para garantir previsões mais precisas e inclusivas
 - `data/`:  
   Diretório principal contendo bases de dados e scripts relacionados ao projeto.  
 
-  - `examples/`: Scripts para carregar e utilizar a base de dados das bacias hidrográficas. 
+  - `examples/`: Scripts para carregar e utilizar a base de dados das bacias hidrográficas. (EM CONSTRUÇÃO)
   - `watersheds/`: Base de dados de bacias hidrográficas organizada em três formatos: individual, por cluster e unificada (formatos: `.shp`, `.shx`, `.dbf`, etc.).  
   - `gauging_station/`: Base de dados das estações de medições fluviométricas e pluviométricas (formato: `.gpkg`).  
   - `streamflow_data/`: Base de dados com séries temporais de vazão fluviométrica por estação.  
 
-- `models/`: Implementações dos algoritmos de IA: 1) correlação de bacias e estações de medição com NSGAII e 2) clusterização de bacias com Balenced K-Means;  
+- `models/`: Implementações dos algoritmos de IA: 1) correlação de bacias e estações de medição com Algoritmo Genético e 2) Clusterização de bacias com Balenced K-Means;  
 - `scripts/`: Ferramentas de processamento para derivação de atributos (códigos do Caravan Project part 1 e 2)
-- `API/`: Uso da API para acesso aos dados de vazão
-- `automation`: Processos automatizados para adaptação e preparação dos dados para integração no Caravan Project.
 - `docs/`: Documentação técnica do projeto. (EM CONSTRUÇÃO)  
 - `environments`: Configurações e ambiente dedicado ao processamento do projeto
 
