@@ -54,7 +54,7 @@ A granularidade é essencial para garantir previsões mais precisas e inclusivas
 ## 🚀 Tecnologias Utilizadas
 
 - **Linguagens:** Python, JavaScript.  
-- **IA e Machine Learning:** Algoritmo genético NSGAII, algoritmo clusterização Balenced K-Means e modelo de larga escala GPT-4o  
+- **IA e Machine Learning:** Algoritmo genético, algoritmo clusterização Balenced K-Means 
 - **Infraestrutura:** Google Earth Engine, serviços em nuvem.  
 - **Bases de Dados:** API do HidroWeb e BHB250 (codificação otto nível 6)
 
