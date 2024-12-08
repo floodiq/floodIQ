@@ -1,1 +1,2 @@
 data/watersheds/all_basians/bacias_nivel_6.shp filter=lfs diff=lfs merge=lfs -text
+data/watersheds/all_basians/basians.shp filter=lfs diff=lfs merge=lfs -text
